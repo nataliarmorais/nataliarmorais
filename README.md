@@ -1,9 +1,9 @@
-# 👩‍💻 Olá! Eu sou a Natália Rios
+# 👩‍💻 Olá! Eu sou a Natália Rios.
 
-☁️ Desenvolvedora em formação | Estudante de Gestão da Tecnologia da Informação  
-🌍 Recife - PE | ela/dela  
-🎓 AWS re/Start Graduate | Escola da Nuvem  
-🧠 Foco: Python • Cloud • Análise de Dados • Full Stack
+☁️ Desenvolvedora em formação | Estudante de Gestão da Tecnologia da Informação.
+🌍 Recife - PE | ela/dela.
+🎓 AWS re/Start Graduate | Escola da Nuvem. 
+🧠 Foco: Python • Cloud • Análise de Dados • Full Stack.
 
 ---
 
