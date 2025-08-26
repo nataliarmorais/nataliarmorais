@@ -7,16 +7,6 @@
 
 ---
 
-### 🌱 Sobre mim
-
-Sou mãe solo, estudante de tecnologia e apaixonada por transformar realidades através do código.  
-Minha trajetória é feita de garra, noites viradas e muita curiosidade — porque aprender é meu combustível.
-
-Trabalho hoje pra conquistar o futuro que quero pros meus filhos.  
-E o primeiro deploy é sempre aqui: na vida real.
-
----
-
 ### 🔧 O que estou estudando:
 
 - ✅ AWS (Cloud Practitioner | VPC | EC2 | RDS | Lambda)
