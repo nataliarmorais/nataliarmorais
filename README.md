@@ -1,3 +1,5 @@
+![Typing](https://readme-typing-svg.demolab.com/?lines=Python+Developer;AWS+Cloud;Data+Analysis&center=true&width=500&height=50)
+
 # 👩‍💻 Natália Rios
 
 Desenvolvedora com formação em Gestão da Tecnologia da Informação, focada em Python, Cloud (AWS) e Análise de Dados.
