@@ -24,9 +24,16 @@ Atualmente aprofundando conhecimentos em análise de dados com Python.
 
 ---
 
+## 🚀 Projetos em destaque
+
 🔹 Sistema de Cadastro em Python  
-🔹 Manipulação de dados com CSV/JSON  
-🔹 CongressHub (gerenciamento de eventos)
+Aplicação com manipulação de dados e operações de cadastro utilizando JSON.
+
+🔹 Manipulação de Dados (CSV/JSON)  
+Scripts para leitura, escrita e organização de dados estruturados.
+
+🔹 CongressHub  
+Sistema para gerenciamento de eventos e participantes com foco em organização de dados.
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight)
