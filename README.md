@@ -23,6 +23,12 @@ Atualmente aprofundando conhecimentos em análise de dados com Python.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
+
+🔹 Sistema de Cadastro em Python  
+🔹 Manipulação de dados com CSV/JSON  
+🔹 CongressHub (gerenciamento de eventos)
+
+---
 ![GitHub Streak](https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight)
 
 ### 📫 Como me encontrar:
