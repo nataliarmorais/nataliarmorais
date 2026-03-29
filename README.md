@@ -1,18 +1,21 @@
-# 👩‍💻 Olá! Eu sou a Natália Rios.
+# 👩‍💻 Natália Rios
 
-☁️ Desenvolvedora em formação | Estudante de Gestão da Tecnologia da Informação.
-🌍 Recife - PE | ela/dela.
-🎓 AWS re/Start Graduate | Escola da Nuvem. 
-🧠 Foco: Python • Cloud • Análise de Dados • Full Stack.
+Desenvolvedora com formação em Gestão da Tecnologia da Informação, focada em Python, Cloud (AWS) e Análise de Dados.
+Atualmente aprofundando conhecimentos em análise de dados com Python.
+
+📍 Recife - PE | AWS re/Start Graduate
+
 
 ---
 
-### 🔧 O que estou estudando:
+### 🛠 Tecnologias e ferramentas
 
-- ✅ AWS (Cloud Practitioner | VPC | EC2 | RDS | Lambda)
-- ✅ Python (lógica, APIs, automação e análise de dados)
-- ✅ Front-end com React (em projetos integrados)
-- ✅ Git & GitHub (workflow, versionamento, README)
+* Python (automação, APIs, manipulação de dados)
+* SQL (consultas e análise de dados)
+* AWS (EC2, RDS, Lambda, VPC)
+* JavaScript / React
+* Git & GitHub
+
 
 ---
 
@@ -24,5 +27,4 @@
 
 ---
 
-> "Não estou aqui por acaso. Estou aqui por propósito. E o código é só o começo."
 
