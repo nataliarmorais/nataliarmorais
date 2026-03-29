@@ -24,6 +24,11 @@ Atualmente aprofundando conhecimentos em análise de dados com Python.
 
 ---
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliarmorais&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarmorais&layout=compact&theme=tokyonight)
 
 ### 📫 Como me encontrar:
 
