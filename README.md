@@ -23,12 +23,7 @@ Atualmente aprofundando conhecimentos em análise de dados com Python.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliarmorais&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliarmorais&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight)
 
 ### 📫 Como me encontrar:
 
