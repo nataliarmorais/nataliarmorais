@@ -37,6 +37,9 @@ Scripts para leitura, escrita e organização de dados estruturados.
 🔹 CongressHub  
 Sistema para gerenciamento de eventos e participantes com foco em organização de dados.
 
+🔹 Plataforma de Doação de Livros  
+Aplicação web em React com deploy na Vercel para gerenciamento de doações
+
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight)
 
