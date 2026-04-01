@@ -1,4 +1,4 @@
-<h1 align="center">✨ Natália Morais</h1>
+<h1 align="center"> Natália Morais</h1>
 
 <p align="center">
 Backend Python (Django) • Cloud AWS • APIs • Automação
@@ -14,7 +14,7 @@ Backend Python (Django) • Cloud AWS • APIs • Automação
 
 ---
 
-## 🌸 Sobre mim
+## Sobre mim
 
 - 📍 Recife - PE  
 - 💻 Backend com Django e Python  
@@ -23,7 +23,7 @@ Backend Python (Django) • Cloud AWS • APIs • Automação
 
 ---
 
-## 💖 Stack
+## Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,aws,postgres,react,git,github,vscode" />
@@ -31,7 +31,7 @@ Backend Python (Django) • Cloud AWS • APIs • Automação
 
 ---
 
-## ✨ Projetos em destaque
+## Projetos em destaque
 
 ### 🎟 CongressHub
 Sistema web para gerenciamento de eventos  
@@ -80,7 +80,7 @@ Scripts para produtividade e dados
 
 ---
 
-## 🌷 Contato
+##  Contato
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nataliariosmorais">
