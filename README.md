@@ -89,13 +89,13 @@ Scripts para produtividade e dados
 </p>
 
 ---
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-</p>
-
 ## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nataliarmorais/nataliarmorais/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
+
+
