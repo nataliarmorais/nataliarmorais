@@ -1,41 +1,95 @@
-# 👩‍💻 Natália Rios
+<h1 align="center">✨ Natália Morais</h1>
 
-Desenvolvedora Python e Cloud (AWS), com experiência em APIs, automação e aplicações web com backend em Django.
+<p align="center">
+Backend Python (Django) • Cloud AWS • APIs • Automação
+</p>
 
-📍 Recife - PE  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=Backend+Python;AWS+Cloud;APIs+REST;Automação+com+Python"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+</p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🌸 Sobre mim
+
+- 📍 Recife - PE  
+- 💻 Backend com Django e Python  
+- ☁️ AWS (EC2, RDS, Lambda)  
+- ⚙️ Automação e dados  
+
+---
+
+## 💖 Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,aws,postgres,react,git,github,vscode" />
+</p>
+
+---
+
+## ✨ Projetos em destaque
 
 ### 🎟 CongressHub
-Plataforma completa para gerenciamento de eventos com autenticação de usuários e backend em Django.
+Sistema web para gerenciamento de eventos  
 
-### 📚 Book Donation Platform
-Aplicação web em React para doação e compartilhamento de livros.
+- Autenticação de usuários  
+- Backend com Django  
+- Persistência em banco de dados  
 
-### 🐍 Automação e Dados com Python
-Scripts para manipulação de dados (CSV/JSON), automação e processamento de informações.
-
----
-
-## 🛠️ Tecnologias
-
-- Python / Django  
-- AWS (EC2, RDS, Lambda)  
-- JavaScript / React  
-- SQL  
-- Git & GitHub  
+🔗 https://github.com/nataliarmorais/congresshub
 
 ---
 
-## 📊 GitHub Stats
+### 📚 API de Livros
+API REST para gerenciamento de livros  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight)
+- CRUD completo  
+- Estrutura de endpoints  
+- Manipulação de dados  
+
+🔗 https://github.com/nataliarmorais/Livros
 
 ---
 
-## 📫 Contato
+### 🐍 Automações com Python
+Scripts para produtividade e dados  
 
-- LinkedIn: https://www.linkedin.com/in/nataliariosmorais  
-- Email: natalya.rios@gmail.com
+- CSV / JSON  
+- Automação de tarefas  
+- Processamento de dados  
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nataliarmorais&theme=tokyonight&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+</p>
+
+---
+
+## 🎯 Em evolução
+
+- Deploy de aplicações na AWS  
+- APIs REST com Django  
+- Projetos com dados  
+
+---
+
+## 🌷 Contato
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nataliariosmorais">
+<img src="https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
